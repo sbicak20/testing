@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "testing"
+=======
+rootProject.name = "asdfasdfasdfsdf"
+>>>>>>> e30b855 (ghjhg)
 include ':app'

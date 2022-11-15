@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace 'hr.foi.rampu.testing'
     compileSdk 32
 
     defaultConfig {
         applicationId "hr.foi.rampu.testing"
+=======
+    namespace 'hr.foi.rampu.asdfasdfasdfsdf'
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "hr.foi.rampu.asdfasdfasdfsdf"
+>>>>>>> e30b855 (ghjhg)
         minSdk 24
         targetSdk 32
         versionCode 1
